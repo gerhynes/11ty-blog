@@ -1,11 +1,10 @@
 ---
 title: First Post from Netlify CMS
-description: A markdown post via Netlify
+description: Volutpat lacus laoreet non curabitur gravida.
 author: Gerard Hynes
 date: 2022-05-01T20:49:38.188Z
 tags:
   - post
-  - featured
 image: /assets/blog/tests-passed.png
 imageAlt: Passing Tests
 ---
